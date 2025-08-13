@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What’s up? I’m Enzo from 🇧🇷, passionate about tech and always up for a challenge.</h1>
+<h1 align="center">Hey 👋 What’s up? I’m Enzo 🇧🇷, passionate about tech and always up for a challenge.</h1>
 
 ###
 
