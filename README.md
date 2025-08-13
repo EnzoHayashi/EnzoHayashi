@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What’s up? I’m Enzo 🇧🇷, passionate about tech and always up for a challenge.</h1>
+<h1 align="center">Hey 👋 What’s up? I’m Enzo from 🇧🇷, passionate about tech and always up for a challenge.</h1>
 
 ###
 
@@ -42,6 +42,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EnzoHayashi/EnzoHayashi/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EnzoHayashi/EnzoHayashi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EnzoHayashi/EnzoHayashi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EnzoHayashi/EnzoHayashi/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
